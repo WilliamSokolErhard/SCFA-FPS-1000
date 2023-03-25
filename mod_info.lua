@@ -1,0 +1,11 @@
+name = "FPS 1000"
+uid = "54686973276C6C206769766520796F75206672616D6573"
+version = 1
+copyright = "GPL v3"
+description = "This'll give you frames"
+author = "William Sokol Erhard"
+url = "https://www.willse.me/"
+selectable = true -- can select in the mod manager?
+enabled = true -- enabled by default
+exclusive = false -- if true, this mod disables all other mods when enabled
+ui_only = false -- if true, the mod is only initialized in the UI
